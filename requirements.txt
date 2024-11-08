@@ -1,0 +1,12 @@
+pip install pandas 
+pip install numpy 
+pip install matplotlib
+pip install seaborn
+pip install sklearn
+pip install scipy
+pip install optuna
+pip install lightgbm
+pip install xgboost
+pip install shap 
+pip install inline 
+pip install tensorflow 
